@@ -1,117 +1,93 @@
 	
 	{
-	"ServerName":"SOLIS Gaming",
-	"ButtonTxt1":"Welcome!",
-	"ButtonTxt2":"General Rules",
-	"ButtonTxt3":"Building Rules",
-	"ButtonTxt4":"",
-	"ButtonTxt5":"",
-	"LinkButtonTxt1":"",
-	"LinkButtonTxt2":"",
-	"LinkButtonTxt3":"",
-	"LinkButtonTxt4":"",
-	"LinkButtonTxt5":"",
-	"LinkButton1":"",
-	"LinkButton2":"",
-	"Link1Button3":"",
-	"Link2Button3":"",
-	"Link3Button3":"",
-	"Link4Button3":"",
-	"Link1Button4":"",
-	"Link2Button4":"",
-	"Link3Button4":"",
-	"Link4Button4":"",
-	"Link1Button5":"",
-	"Link2Button5":"",
-	"Link3Button5":"",
-	"Link4Button5":"",
-	"Tab1Panelcount":1,
-	"Tab2Panelcount":1,
-	"Tab3Panelcount":1,
-	"Tab4Panelcount":1,
-	"Tab5Panelcount":1,
-	"BackgroundTab1":2,
-	"BackgroundTab2":2,
-	"BackgroundTab3":2,
-	"BackgroundTab4":2,
-	"BackgroundTab5":2,
-	"Background3Color":"0.0,0.0,255.0,0.5",
-	"FontColorButtons":"255.0,255.0,255.0,",
-	"FontColorServerName":"255.0,95.114998,0.0,",
-	"FontColorTabTitles":"19.379999,255.0,0.0,",
-	"FontColorTabText":"255.0,255.0,255.0,",
-	"UseSteamBrowserLink1":true,
-	"UseSteamBrowserLink2":false,
-	"Tab1Title1":"Welcome to SOLIS Gaming!",
-	"Tab1Title2":"",
-	"Tab1Title3":"",
-	"Tab2Title1":"General Rules",
-	"Tab2Title2":"Etiquette and Behavior Rules",
-	"Tab2Title3":"",
-	"Tab3Title1":"Building Rules",
-	"Tab3Title2":"",
-	"Tab3Title3":"",
-	"Tab4Title1":"",
-	"Tab4Title2":"",
-	"Tab4Title3":"",
-	"Tab5Title1":"",
-	"Tab5Title2":"",
-	"Tab5Title3":"",
-	"Tab1Text1":"
-
-We are glad you are here and we hope you enjoy your stay with us. But before you jump in, we do have rules here to keep the experience pleasant for everyone. These rules are enforced by our fantastic admin staff. For your own benefit, please take a few minutes and read through them... 
-
-",
-	"Tab1Text2":"",
-	"Tab1Text3":"",
-	"Tab2Text1":"This is a family friendly server... We have young kids that also play, and take part. Keep that in mind at all times. Especially in chat.
-
-
-1. Keep names of Tribes, Players, Steam profiles and dinos clean & two players are not allowed to have the same name...First come, first serve.
-
-1.Cheating and/or glitching is forbidden (e.g. floating base, building under the map etc.)!
-2.Feel free to offer & help new players but remember a lot of the early game is the excitement of building up and learning to play ARK.Please don’t give away high level gear to new players as this could ruin the enjoyment of the game.Dont under ANY circumstances give any player end tier dinos.You can help a player with a Pteranodon or Parasaur. Dont give them an Argi,certainly dont give them a Rex. Especially ones that are already at 250+ stats.You are NOT helping them, you are ruining their chances to experience the reality of the game. Doing this could result in a tribe wipe and or even a BAN from our servers. Trading in equavilent levels (Stats) dinos are allowed.
-3.Keeping dinos on wandering or mating all the time is forbidden (Exception: game mechanics like those from dung beetle, oviraptor etc.) If you lost a dino do the following: 
-		Open your chat window and type in /finddino
-
-			This will shows all dinos that are
-
-				- not in range of any structures of the same team
-				- no teammember was in range for x hours
-
-		Or type in /finddino value, 
-		
-		shows all dinos where  - dinoname, dinotype or level includes the value
-
-4.Using multiple accounts is allowed as long as no other rules are bypassed/ exploited.
-6.Tribe names have to be identical on all servers in the cluster -  Using different tribenames in the cluster is on your own risk!
-7.Players are only allowed to create one character per Steam account! Ignoring this rule can lead to the loss of all structures and dinosaurs!
-8.There is an Auto-Decay system on the server (Every map has its own timers. Just being on one map does not reset timers on other maps.)
-                   Thatch - 8 Days
-                   Wood - 16 Days
-                   Stone - 24 Days
-                   Metal - 32 Days",
-	"Tab2Text2":"1.Harassing other players is forbidden. This includes Nazi content, insults, sexist and radical expressions as well as verbal abuse.
-
-2. PvP behavior on PvE is forbidden (e.g. thievery and homicide).
-3.Any loot beacon is claimed by the first player arriving at the exact drop location.
-- In terms of air drops a video must be provided to proof the claim to resolve the dispute... (use ShadowPlay or similar tools)
-- Extinction: Orbital Drops have to be claimed in the Global Chat with exact Co-ords (i.e. Orbital Drop at 71.3 40.9 claimed!). To proof the claim make a screenshot with map, orbital drop and visible server time (hold H ingame) in one picture.
-4.Luring dinos to bases is forbidden (unless it is your own base).
-5.Parking dinos outside of bases is forbidden. We will remove these dinos without warning.
-6. Behavior that harms the atmosphere on the server is forbidden. In case of a dispute we will decide whats bad behavior and whats not.
-For example, instead of saying player XY is cheating just collect as much evidence as you can and submit a ticket to inform us. Well take care of everything else.",
+		"ServerName":"Test: The Island 10x Rates | 10 Mods",
+		"ButtonTxt1":"Welcome",
+		"ButtonTxt2":"Rules (1 of 3)",
+		"ButtonTxt3":"Rules (2 of 3)",
+		"ButtonTxt4":"Rules (3 of 3)",
+		"ButtonTxt5":"",
+		"LinkButtonTxt1":"",
+		"LinkButtonTxt2":"",
+		"LinkButtonTxt3":"",
+		"LinkButtonTxt4":"",
+		"LinkButtonTxt5":"",
+		"LinkButton1":"",
+		"LinkButton2":"",
+		"Link1Button3":"",
+		"Link2Button3":"",
+		"Link3Button3":"",
+		"Link4Button3":"",
+		"Link1Button4":"",
+		"Link2Button4":"",
+		"Link3Button4":"",
+		"Link4Button4":"",
+		"Link1Button5":"",
+		"Link2Button5":"",
+		"Link3Button5":"",
+		"Link4Button5":"",
+		"Tab1Panelcount":1,
+		"Tab2Panelcount":3,
+		"Tab3Panelcount":3,
+		"Tab4Panelcount":1,
+		"Tab5Panelcount":1,
+		"BackgroundTab1":14,
+		"BackgroundTab2":13,
+		"BackgroundTab3":12,
+		"BackgroundTab4":10,
+		"BackgroundTab5":0,
+		"Background3Color":"",
+		"FontColorButtons":"",
+		"FontColorServerName":"",
+		"FontColorTabTitles":"",
+		"FontColorTabText":"",
+		"UseSteamBrowserLink1":false,
+		"UseSteamBrowserLink2":false,
+		"Tab1Title1":"General Conduct",
+		"Tab1Title2":"",
+		"Tab1Title3":"",
+		"Tab2Title1":"General Conduct",
+		"Tab2Title2":"Building Rules",
+		"Tab2Title3":"Taming & Breeding",
+		"Tab3Title1":"Resource Sharing & Fair Play",
+		"Tab3Title2":"Economy & Trading",
+		"Tab3Title3":"Admin & Support",
+		"Tab4Title1":"AFK & Auto-Farming Rules",
+		"Tab4Title2":"",
+		"Tab4Title3":"",
+		"Tab5Title1":"",
+		"Tab5Title2":"",
+		"Tab5Title3":"",
+		"Tab1Text1":"Hey Survivors! Were thrilled to have you join our community in Ark Survival Evolved. Our goal is to create a fun, fair, and friendly environment for all players. To keep things running smoothly, we have a few rules in place to ensure everyone enjoys their adventure.
 	
-    "Tab2Text3":"",
-	"Tab3Text1":"1. Tribes that violate our building rules will be warned, but risk being wiped from the map completely!
-2. The base limit is 2 per map. One main base and one outpost. An outpost can be one raft, one tree- or cliff-platform or a small base (16 foundations square +-).(on Genesis one base and 1 satellite base on per biome)
-
-	"Tab3Text2":"",
-	"Tab3Text3":"",
-	"Tab4Text1":"",
-	"Tab4Text2":"",
-	"Tab4Text3":"",
-	"Tab5Text1":"",
-	"Tab5Text2":"",
-	"Tab5Text3":""
-	}
+	Please take a moment to review the rules below. If you have any questions, feel free to reach out to an admin via the WebUI ticket system or our Discord.
+	
+	Happy taming, building, and exploring!",
+		"Tab1Text2":"",
+		"Tab1Text3":"",
+		"Tab2Text1":"✅ Be respectful—no harassment, hate speech, or toxic behavior.
+	✅ No griefing—this includes foundation spamming, blocking resources, or trolling players.
+	✅ No exploiting glitches, bugs, or unintended mechanics.",
+		"Tab2Text2":"✅ Build away from key locations (e.g., obelisks, caves with artifacts, rare resource spawns).
+	✅ One main base per tribe, plus one outpost (e.g., farming or taming base).
+	✅ No excessive land claiming—structures that go unused may be removed by admins.
+	✅ Keep bases optimized—limit unnecessary spam structures to reduce lag.",
+		"Tab2Text3":"✅ Do not block or cage high-level wild creatures for long periods.
+	✅ Keep breeding reasonable—excessive dino hoarding can cause lag.
+	✅ Any unwanted dinos should be unclaimed in a designated Dino Adoption Area or responsibly",
+		"Tab3Text1":"✅ Do not block or monopolize high-value resources (metal, crystal, oil, etc.).
+	✅ No killing passive creatures that belong to other players.
+	✅ Be mindful of community areas (such as teleporters, marketplaces, or public utilities).",
+		"Tab3Text2":"✅ Trade fairly—Avoid sharing high-value items with new players.
+	✅ Help new players by offering guidance, not just free items.
+	✅ Report any exploits to admins.",
+		"Tab3Text3":"✅ Respect admin decisions—do not spam complaints or harass staff.
+	✅ Use the WebUI ticket system or Discord for issues and bug reports. (Coming soon)
+	✅ Cheating, exploiting, or abusing mechanics will result in immediate action.",
+		"Tab4Text1":"✅ No AFK farming, excessive auto-clicking, or macro abuse.
+	✅ Automated farms (e.g., gachas, dinos on wander) must be supervised and optimized to avoid lag.",
+		"Tab4Text2":"",
+		"Tab4Text3":"",
+		"Tab5Text1":"",
+		"Tab5Text2":"",
+		"Tab5Text3":""
+		}
