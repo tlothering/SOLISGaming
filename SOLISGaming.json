@@ -1,63 +1,63 @@
 	
 	{
-		"ServerName":"SOLIS Gaming",
-		"ButtonTxt1":"Welcome",
-		"ButtonTxt2":"Rules (1 of 3)",
-		"ButtonTxt3":"Rules (2 of 3)",
-		"ButtonTxt4":"Rules (3 of 3)",
-		"ButtonTxt5":"Auto-Decay",
-		"LinkButtonTxt1":"",
-		"LinkButtonTxt2":"",
-		"LinkButtonTxt3":"",
-		"LinkButtonTxt4":"",
-		"LinkButtonTxt5":"",
-		"LinkButton1":"",
-		"LinkButton2":"",
-		"Link1Button3":"",
-		"Link2Button3":"",
-		"Link3Button3":"",
-		"Link4Button3":"",
-		"Link1Button4":"",
-		"Link2Button4":"",
-		"Link3Button4":"",
-		"Link4Button4":"",
-		"Link1Button5":"",
-		"Link2Button5":"",
-		"Link3Button5":"",
-		"Link4Button5":"",
-		"Tab1Panelcount":1,
-		"Tab2Panelcount":3,
-		"Tab3Panelcount":3,
-		"Tab4Panelcount":1,
-		"Tab5Panelcount":1,
-		"BackgroundTab1":14,
-		"BackgroundTab2":13,
-		"BackgroundTab3":12,
-		"BackgroundTab4":10,
-		"BackgroundTab5":0,
-		"Background3Color":"",
-		"FontColorButtons":"255,255,255",
-		"FontColorServerName":"255,255,255",
-		"FontColorTabTitles":"255,255,255",
-		"FontColorTabText":"255,255,255",
-		"UseSteamBrowserLink1":false,
-		"UseSteamBrowserLink2":false,
-		"Tab1Title1":"General Conduct",
-		"Tab1Title2":"",
-		"Tab1Title3":"",
-		"Tab2Title1":"General Conduct",
-		"Tab2Title2":"Building Rules",
-		"Tab2Title3":"Taming & Breeding",
-		"Tab3Title1":"Resource Sharing & Fair Play",
-		"Tab3Title2":"Economy & Trading",
-		"Tab3Title3":"Admin & Support",
-		"Tab4Title1":"AFK & Auto-Farming Rules",
-		"Tab4Title2":"",
-		"Tab4Title3":"",
-		"Tab5Title1":"Structure & Dino Decay",
-		"Tab5Title2":"",
-		"Tab5Title3":"",
-		"Tab1Text1":"Hey Survivors! Were thrilled to have you join our community in Ark Survival Evolved. Our goal is to create a fun, fair, and friendly environment for all players. To keep things running smoothly, we have a few rules in place to ensure everyone enjoys their adventure.
+	"ServerName":"SOLIS Gaming",
+	"ButtonTxt1":"Welcome",
+	"ButtonTxt2":"Rules (1 of 3)",
+	"ButtonTxt3":"Rules (2 of 3)",
+	"ButtonTxt4":"Rules (3 of 3)",
+	"ButtonTxt5":"Auto-Decay",
+	"LinkButtonTxt1":"Welcome",
+	"LinkButtonTxt2":"Rules (1 of 3)",
+	"LinkButtonTxt3":"Rules (2 of 3)",
+	"LinkButtonTxt4":"Rules (3 of 3)",
+	"LinkButtonTxt5":"Auto-Decay",
+	"LinkButton1":"",
+	"LinkButton2":"",
+	"Link1Button3":"",
+	"Link2Button3":"",
+	"Link3Button3":"",
+	"Link4Button3":"",
+	"Link1Button4":"",
+	"Link2Button4":"",
+	"Link3Button4":"",
+	"Link4Button4":"",
+	"Link1Button5":"",
+	"Link2Button5":"",
+	"Link3Button5":"",
+	"Link4Button5":"",
+	"Tab1Panelcount":3,
+	"Tab2Panelcount":3,
+	"Tab3Panelcount":3,
+	"Tab4Panelcount":1,
+	"Tab5Panelcount":1,
+	"BackgroundTab1":13,
+	"BackgroundTab2":12,
+	"BackgroundTab3":11,
+	"BackgroundTab4":10,
+	"BackgroundTab5":8,
+	"Background3Color":"",
+	"FontColorButtons":"255,255,255",
+	"FontColorServerName":"255,255,255",
+	"FontColorTabTitles":"255,255,255",
+	"FontColorTabText":"255,255,255",
+	"UseSteamBrowserLink1":false,
+	"UseSteamBrowserLink2":false,
+	"Tab1Title1":"General Conduct",
+	"Tab1Title2":"Notice Board",
+	"Tab1Title3":"Emergency Notice",
+	"Tab2Title1":"General Conduct",
+	"Tab2Title2":"Building Rules",
+	"Tab2Title3":"Taming & Breeding",
+	"Tab3Title1":"Resource Sharing & Fair Play",
+	"Tab3Title2":"Economy & Trading",
+	"Tab3Title3":"Admin & Support",
+	"Tab4Title1":"AFK & Auto-Farming Rules",
+	"Tab4Title2":"",
+	"Tab4Title3":"",
+	"Tab5Title1":"",
+	"Tab5Title2":"",
+	"Tab5Title3":"",
+	"Tab1Text1":"Hey Survivors! Were thrilled to have you join our community in Ark Survival Evolved. Our goal is to create a fun, fair, and friendly environment for all players. To keep things running smoothly, we have a few rules in place to ensure everyone enjoys their adventure.
 		
 Please take a moment to review the rules above (1 to 3). If you have any questions, feel free to reach out to an admin via the WebUI ticket system or our Discord.
 
@@ -68,32 +68,33 @@ This server is configured with the following:
 		- Level 5 Difficulty
 		
 Happy taming, building, and exploring!",
-		"Tab1Text2":"",
-		"Tab1Text3":"",
-		"Tab2Text1":"- Be respectful: No harassment, hate speech, or toxic behavior.
+	"Tab1Text2":"- Upcoming Events: None",
+	"Tab1Text3":"- None",
+	"Tab2Text1":"- Be respectful: No harassment, hate speech, or toxic behavior.
 - No griefing: This includes foundation spamming, blocking resources, or trolling players.
 - No exploiting glitches, bugs, or unintended mechanics.",
-		"Tab2Text2":"- Build away from key locations (e.g., obelisks, caves with artifacts, rare resource spawns)
+	"Tab2Text2":"- Build away from key locations (e.g., obelisks, caves with artifacts, rare resource spawns)
 - One main base per tribe, plus one outpost (e.g., farming or taming base).
-- No excessive land claiming—structures that go unused may be removed by admins.
-- Keep bases optimized—limit unnecessary spam structures to reduce lag.",
-		"Tab2Text3":"- Do not block or cage high-level wild creatures for long periods.
-- Keep breeding reasonable—excessive dino hoarding can cause lag.
-- Any unwanted dinos should be unclaimed in a designated Dino Adoption Area or responsibly",
-		"Tab3Text1":"- Do not block or monopolize high-value resources (metal, crystal, oil, etc.).
+- No excessive land claiming, structures that go unused may be removed by admins.
+- Keep bases optimized, limit unnecessary spam structures to reduce lag.
+- Do not build SteamPunk AirShip or Vacuum Pods, they cause lag and map & character corruption.",
+	"Tab2Text3":"- Do not block or cage high-level wild creatures for long periods.
+- Keep breeding reasonable because it causes excessive dino hoarding can cause lag.
+- Any unwanted dinos should be unclaimed in a designated Dino Adoption Area or responsibly.",
+	"Tab3Text1":"- Do not block or monopolize high-value resources (metal, crystal, oil, etc.).
 - No killing passive creatures that belong to other players.
 - Be mindful of community areas (such as teleporters, marketplaces, or public utilities).",
-		"Tab3Text2":"- Trade fairly—Avoid sharing high-value items with new players.
+	"Tab3Text2":"- Trade fairly, avoid sharing high-value items with new players.
 - Help new players by offering guidance, not just free items.
 - Report any exploits to admins.",
-		"Tab3Text3":"- Respect admin decisions—do not spam complaints or harass staff.
+	"Tab3Text3":"- Respect admin decisions—do not spam complaints or harass staff.
 - Use the WebUI ticket system or Discord for issues and bug reports. (Coming soon)
 - Cheating, exploiting, or abusing mechanics will result in immediate action.",
-		"Tab4Text1":"- No AFK farming, excessive auto-clicking, or macro abuse.
+	"Tab4Text1":"- No AFK farming, excessive auto-clicking, or macro abuse.
 - Automated farms (e.g., gachas, dinos on wander) must be supervised and optimized to avoid lag.",
-		"Tab4Text2":"",
-		"Tab4Text3":"",
-		"Tab5Text1":"This cluster has auto-decay timers on all structures and tamed dinosaurs. This means that if nobody in your tribe logs into each map every few days, your structures and dinosaurs may disappear:
+	"Tab4Text2":"",
+	"Tab4Text3":"",
+	"Tab5Text1":"This cluster has auto-decay timers on all structures and tamed dinosaurs. This means that if nobody in your tribe logs into each map every few days, your structures and dinosaurs may disappear:
 - Thatch : 4 days
 - Utilities: 4 days
 - Tamed Dinosaur (including Raft, Motorboat, Skiff, Meks and Tek Stryders): 8 days
@@ -112,7 +113,7 @@ Happy taming, building, and exploring!",
 - Cryofridge on the ground : 40 Days
 - Tek Dedicated Storage connected to another Tek Dedicated Storage: 80 days
 - Tek Trough : 80 days [5]
-- Tamed Dinosaur in a cryopod: as long as the lifetime of the cryopod and the container it's stored in.",
-		"Tab5Text2":"",
-		"Tab5Text3":""
-		}
+- Tamed Dinosaur in a cryopod: as long as the lifetime of the cryopod and the container its stored in.",
+	"Tab5Text2":"",
+	"Tab5Text3":""
+	}
