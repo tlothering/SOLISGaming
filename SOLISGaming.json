@@ -5,7 +5,7 @@
 		"ButtonTxt2":"Rules (1 of 3)",
 		"ButtonTxt3":"Rules (2 of 3)",
 		"ButtonTxt4":"Rules (3 of 3)",
-		"ButtonTxt5":"",
+		"ButtonTxt5":"Structure & Dino Decay",
 		"LinkButtonTxt1":"",
 		"LinkButtonTxt2":"",
 		"LinkButtonTxt3":"",
@@ -54,7 +54,7 @@
 		"Tab4Title1":"AFK & Auto-Farming Rules",
 		"Tab4Title2":"",
 		"Tab4Title3":"",
-		"Tab5Title1":"",
+		"Tab5Title1":"Structure & Dino Decay",
 		"Tab5Title2":"",
 		"Tab5Title3":"",
 		"Tab1Text1":"Hey Survivors! Were thrilled to have you join our community in Ark Survival Evolved. Our goal is to create a fun, fair, and friendly environment for all players. To keep things running smoothly, we have a few rules in place to ensure everyone enjoys their adventure.
@@ -93,7 +93,26 @@ Happy taming, building, and exploring!",
 - Automated farms (e.g., gachas, dinos on wander) must be supervised and optimized to avoid lag.",
 		"Tab4Text2":"",
 		"Tab4Text3":"",
-		"Tab5Text1":"",
+		"Tab5Text1":"This cluster has auto-decay timers on all structures and tamed dinosaurs. This means that if nobody in your tribe logs into each map every few days, your structures and dinosaurs may disappear:
+- Thatch : 4 days
+- Utilities: 4 days
+- Tamed Dinosaur (including Raft, Motorboat, Skiff, Meks and Tek Stryders): 8 days
+- Electrical Cables: 8 days
+- Wood : 8 days
+- Adobe: 8 days
+- Stone : 12 days
+- Greenhouse: 15 days
+- Metal : 16 days
+- Vault: 16 days
+- Tek buildings : 20 days [2]
+- Tek Cloning Chamber : 20 Days
+- Tek Generator on the ground : 40 Days
+- Tek Transmitter on the ground : 40 Days
+- Tek Teleporter on the ground : 40 Days
+- Cryofridge on the ground : 40 Days
+- Tek Dedicated Storage connected to another Tek Dedicated Storage: 80 days [3][4]
+- Tek Trough : 80 days [5]
+- Tamed Dinosaur in a cryopod: as long as the lifetime of the cryopod and the container it's stored in.",
 		"Tab5Text2":"",
 		"Tab5Text3":""
 		}
