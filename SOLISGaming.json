@@ -2,9 +2,9 @@
 	{
 		"ServerName":"Test: The Island 10x Rates | 10 Mods",
 		"ButtonTxt1":"Welcome",
-		"ButtonTxt2":"Rules (1 of 2)",
-		"ButtonTxt3":"Rules (2 of 2)",
-		"ButtonTxt4":"",
+		"ButtonTxt2":"Rules (1 of 3)",
+		"ButtonTxt3":"Rules (2 of 3)",
+		"ButtonTxt4":"Rules (3 of 3)",
 		"ButtonTxt5":"",
 		"LinkButtonTxt1":"",
 		"LinkButtonTxt2":"",
@@ -64,27 +64,27 @@
 		Happy taming, building, and exploring!",
 		"Tab1Text2":"",
 		"Tab1Text3":"",
-		"Tab2Text1":"- Be respectful—no harassment, hate speech, or toxic behavior.
-	- No griefing—this includes foundation spamming, blocking resources, or trolling players.
-	- No exploiting glitches, bugs, or unintended mechanics.",
-		"Tab2Text2":"- Build away from key locations (e.g., obelisks, caves with artifacts, rare resource spawns).
-	- One main base per tribe, plus one outpost (e.g., farming or taming base).
-	- No excessive land claiming—structures that go unused may be removed by admins.
-	- Keep bases optimized—limit unnecessary spam structures to reduce lag.",
+		"Tab2Text1":"- Be respectful: No harassment, hate speech, or toxic behavior.
+		- No griefing: This includes foundation spamming, blocking resources, or trolling players.
+		- No exploiting glitches, bugs, or unintended mechanics.",
+		"Tab2Text2":"- Build away from key locations (e.g., obelisks, caves with artifacts, rare resource spawns)
+		- One main base per tribe, plus one outpost (e.g., farming or taming base).
+		- No excessive land claiming—structures that go unused may be removed by admins.
+		- Keep bases optimized—limit unnecessary spam structures to reduce lag.",
 		"Tab2Text3":"- Do not block or cage high-level wild creatures for long periods.
-	- Keep breeding reasonable—excessive dino hoarding can cause lag.
-	- Any unwanted dinos should be unclaimed in a designated Dino Adoption Area or responsibly",
+		- Keep breeding reasonable—excessive dino hoarding can cause lag.
+		- Any unwanted dinos should be unclaimed in a designated Dino Adoption Area or responsibly",
 		"Tab3Text1":"- Do not block or monopolize high-value resources (metal, crystal, oil, etc.).
-	- No killing passive creatures that belong to other players.
-	- Be mindful of community areas (such as teleporters, marketplaces, or public utilities).",
+		- No killing passive creatures that belong to other players.
+		- Be mindful of community areas (such as teleporters, marketplaces, or public utilities).",
 		"Tab3Text2":"- Trade fairly—Avoid sharing high-value items with new players.
-	- Help new players by offering guidance, not just free items.
-	- Report any exploits to admins.",
+		- Help new players by offering guidance, not just free items.
+		- Report any exploits to admins.",
 		"Tab3Text3":"- Respect admin decisions—do not spam complaints or harass staff.
-	- Use the WebUI ticket system or Discord for issues and bug reports. (Coming soon)
-	- Cheating, exploiting, or abusing mechanics will result in immediate action.",
+		- Use the WebUI ticket system or Discord for issues and bug reports. (Coming soon)
+		- Cheating, exploiting, or abusing mechanics will result in immediate action.",
 		"Tab4Text1":"- No AFK farming, excessive auto-clicking, or macro abuse.
-	- Automated farms (e.g., gachas, dinos on wander) must be supervised and optimized to avoid lag.",
+		- Automated farms (e.g., gachas, dinos on wander) must be supervised and optimized to avoid lag.",
 		"Tab4Text2":"",
 		"Tab4Text3":"",
 		"Tab5Text1":"",
