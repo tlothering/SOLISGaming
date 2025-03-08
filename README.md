@@ -5,7 +5,7 @@ Welcome to the SOLIS Gaming Cluster repository! This repository contains configu
 - This repository serves as a centralized location for storing, versioning, and maintaining configuration files for the SOLIS Gaming Cluster. It ensures consistency, easy collaboration, and quick recovery of server configurations when needed.
 
 🔄 Usage Guidelines
-- This repo is free to use, without attribution - you're welcone :D.
+- This repo is free to use, without attribution - you're welcome 😊.
 
 🚀 Current Hosted Games
 - ARK: Survival Evolved
