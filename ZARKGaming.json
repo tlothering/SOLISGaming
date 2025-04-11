@@ -98,7 +98,15 @@ Happy taming, building and exploring!",
 	"Tab4Text2":"- To find a lost dino, type in /finddino in the global chat.
 - This server utilizes a sophisticated transfer system. Use /upload or /download in the global chat.
 - This server has a play-to-win shop system. Use /shop in the global chat to get started.",
-	"Tab4Text3":"- Use /shop",
+	"Tab4Text3":"- /points - Shows current amount of points.
+- /buy <ID> <Amount> - Buys the item from shop.
+- /trade <'CharacterName'> <Amount> - Sends points to other player (' ' - are necessary).
+- /kit - Shows all kits.
+- /kit <KitName> - Redeems the kit.
+- /buykit <KitName> <Amount> - Buys a kit (if kit has a price).
+- /shop <Page> - Shows a list of available items in the shop.
+- /sell <ID> <Amount> - Sells an item.
+- /shopsell<Page> - Shows a list of available for selling items.",
 	"Tab5Text1":"This cluster has auto-decay timers on all structures and tamed dinosaurs. This means that if nobody in your tribe logs into each map every few days, your structures and dinosaurs will decay, and then auto destroy (Ark Official Rules):
 - Thatch : 4 days
 - Wood & Adobe : 8 days
