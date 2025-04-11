@@ -109,13 +109,15 @@ Happy taming, building and exploring!",
 - /shop <Page> - Shows a list of available items in the shop.
 - /sell <ID> <Amount> - Sells an item.
 - /shopsell <Page> - Shows a list of available for selling items.",
-	"Tab5Text1":"This cluster has auto-decay timers on all structures and tamed dinosaurs. This means that if nobody in your tribe logs into each map every few days, your structures and dinosaurs will decay, and then auto destroy (Ark Official Rules):
+	"Tab5Text1":"This cluster has auto-decay timers on all structures and tamed dinosaurs. This means that if nobody in your tribe logs into each map every few days, your structures and dinosaurs will decay, and then auto destroy for the same period of time (Ark Official Rules):
 - Thatch : 4 days
 - Wood & Adobe : 8 days
 - Stone : 12 days
 - Metal : 16 days
 - Vault: 16 days
-- Tek : 20-80 days",
+- Tek : 20-80 days
+
+- Demolishable bases may be raided.",
 	"Tab5Text2":"",
 	"Tab5Text3":""
 	}
