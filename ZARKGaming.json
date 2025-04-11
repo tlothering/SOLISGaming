@@ -94,13 +94,14 @@ Happy taming, building and exploring!",
 - Help new players by offering guidance, not just free items.
 - Report any exploits to Admins.",
 	"Tab3Text3":"- Respect Admin decisions, do not spam complaints or harass staff.
+- Support is offered on a best-effort-basis. Our Admins typically work during the day, but will be able to assist in the evenings or weekends.
 - Use the Discord ticket system (#tickets) for issues and bug reports. (Coming soon)
 - Cheating, exploiting, or abusing mechanics will result in immediate action.",
 	"Tab4Text1":"- No AFK farming, excessive auto-clicking, or macro abuse.
 - Automated farms (e.g. gachas, dung beetles & seed farms) are allowed.
 - Dino Breeding farms must be supervised or Dinos soul-balled to avoid lag.",
 	"Tab4Text2":"- To find a lost dino, type in '/finddino'.
-- This server utilizes a sophisticated transfer system. Use '/upload' or '/download'.",
+- This server utilizes a sophisticated transfer system. Use '/upload' or '/download' to safely upload or download all items on your character.",
 	"Tab4Text3":"- /points - Shows current amount of points.
 - /buy <ID> <Amount> - Buys the item from shop.
 - /trade 'CharacterName' <Amount> - Sends points to other player (' ' - are necessary).
