@@ -95,15 +95,14 @@ Happy taming, building and exploring!",
 	"Tab4Text1":"- No AFK farming, excessive auto-clicking, or macro abuse.
 - Automated farms (e.g. gachas, dung beetles & seed farms) are allowed.
 - Dino Breeding farms must be supervised or Dinos soul-balled to avoid lag.",
-	"Tab4Text2":"- To find a lost dino, type in /finddino in the global chat.
-- This server utilizes a sophisticated transfer system. Use /upload or /download in the global chat.
-- This server has a play-to-win shop system. Use /shop in the global chat to get started.",
+	"Tab4Text2":"- To find a lost dino, type in '/finddino' in the global chat.
+- This server utilizes a sophisticated transfer system. Use '/upload' or '/download' in the global chat.",
 	"Tab4Text3":"- /points - Shows current amount of points.
 - /buy <ID> <Amount> - Buys the item from shop.
-- /trade <'CharacterName'> <Amount> - Sends points to other player (' ' - are necessary).
+- /trade 'CharacterName' <Amount> - Sends points to other player (' ' - are necessary).
 - /kit - Shows all kits.
 - /kit <KitName> - Redeems the kit.
-- /buykit <KitName> <Amount> - Buys a kit (if kit has a price).
+- /buykit <KitName> <Amount> - Buys a kit.
 - /shop <Page> - Shows a list of available items in the shop.
 - /sell <ID> <Amount> - Sells an item.
 - /shopsell<Page> - Shows a list of available for selling items.",
