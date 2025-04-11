@@ -52,7 +52,7 @@
 	"Tab3Title2":"Economy & Trading",
 	"Tab3Title3":"Admin & Support",
 	"Tab4Title1":"AFK & Auto-Farming Rules",
-	"Tab4Title2":"Chat Commands",
+	"Tab4Title2":"Global Chat Commands",
 	"Tab4Title3":"Shop Commands",
 	"Tab5Title1":"",
 	"Tab5Title2":"",
@@ -98,8 +98,8 @@ Happy taming, building and exploring!",
 	"Tab4Text1":"- No AFK farming, excessive auto-clicking, or macro abuse.
 - Automated farms (e.g. gachas, dung beetles & seed farms) are allowed.
 - Dino Breeding farms must be supervised or Dinos soul-balled to avoid lag.",
-	"Tab4Text2":"- To find a lost dino, type in '/finddino' in the global chat.
-- This server utilizes a sophisticated transfer system. Use '/upload' or '/download' in the global chat.",
+	"Tab4Text2":"- To find a lost dino, type in '/finddino'.
+- This server utilizes a sophisticated transfer system. Use '/upload' or '/download'.",
 	"Tab4Text3":"- /points - Shows current amount of points.
 - /buy <ID> <Amount> - Buys the item from shop.
 - /trade 'CharacterName' <Amount> - Sends points to other player (' ' - are necessary).
