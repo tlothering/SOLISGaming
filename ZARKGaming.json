@@ -8,10 +8,10 @@
 	"ButtonTxt5":"Auto-Decay",
 	"LinkButtonTxt1":"Join our Discord",
 	"LinkButtonTxt2":"Full Mod list",
-	"LinkButtonTxt3":"Rules (2 of 3)",
-	"LinkButtonTxt4":"Rules (3 of 3)",
-	"LinkButtonTxt5":"Auto-Decay",
-	"LinkButton1":"discord.gg/s5V4FBYK68",
+	"LinkButtonTxt3":"",
+	"LinkButtonTxt4":"",
+	"LinkButtonTxt5":"",
+	"LinkButton1":"https://discord.com/invite/s5V4FBYK68",
 	"LinkButton2":"https://steamcommunity.com/sharedfiles/filedetails/?id=2900580497",
 	"Link1Button3":"",
 	"Link2Button3":"",
@@ -52,14 +52,14 @@
 	"Tab3Title2":"Economy & Trading",
 	"Tab3Title3":"Admin & Support",
 	"Tab4Title1":"AFK & Auto-Farming Rules",
-	"Tab4Title2":"",
+	"Tab4Title2":"Chat Commands",
 	"Tab4Title3":"",
 	"Tab5Title1":"",
 	"Tab5Title2":"",
 	"Tab5Title3":"",
 	"Tab1Text1":"Hey Survivors! Were thrilled to have you join our community in Ark Survival Evolved. Our goal is to create a fun, fair, and friendly environment for all players. To keep things running smoothly, we have a few rules in place to ensure everyone enjoys their adventure.
 		
-Please take a moment to review the rules above (1 to 3). If you have any questions, feel free to reach out to an admin via the WebUI ticket system or our Discord.
+Please take a moment to review the rules above (1 to 3). If you have any questions, feel free to reach out to an Admin via the WebUI ticket system (coming soon) or our Discord link below.
 
 This server is configured with the following:
 		- 10x Harvesting Rates
@@ -67,11 +67,14 @@ This server is configured with the following:
 		- 16 Mods | S+, Steampunk, Castles Keeps & Forts, RR-Home Deko & more
 		
 Happy taming, building and exploring!",
-	"Tab1Text2":"- Upcoming Events: None",
+	"Tab1Text2":"- Upcoming Events: Check our #Events channel on Discord for current events.
+- Scheduled daily restart at 05:00-05:30",
 	"Tab1Text3":"- None",
 	"Tab2Text1":"- Be respectful: No harassment, hate speech, or toxic behavior.
 - No griefing: This includes foundation spamming, blocking resources, or trolling players.
-- No exploiting glitches, bugs, or unintended mechanics.",
+- No exploiting glitches, bugs, or unintended mechanics.
+- Tribe, player, dino & Steam names must follow PEGI 12 / ESRB Teen standards. No duplicate player names – first come, first served.
+- Helping new players is welcome, but don’t spoil the game. No giving away high-level gear or dinos (e.g. Rex, Argy). Giving OP dinos (250+ stats) may lead to a wipe or ban. Fair trades only.",
 	"Tab2Text2":"- Build away from key locations (e.g., obelisks, caves with artifacts, rare resource spawns)
 - One main base per tribe, plus one outpost (e.g., farming or taming base).
 - No excessive land claiming, structures that go unused may be removed by admins.
@@ -79,7 +82,7 @@ Happy taming, building and exploring!",
 - Do not build SteamPunk AirShip or Vacuum Pods, they cause lag and map & character corruption.",
 	"Tab2Text3":"- Do not block or cage high-level wild creatures for long periods.
 - Keep breeding reasonable because it causes excessive dino hoarding can cause lag.
-- Any unwanted dinos should be unclaimed in a designated Dino Adoption Area or responsibly.",
+- Any unwanted dinos should be responsibly disposed of.",
 	"Tab3Text1":"- Do not block or monopolize high-value resources (metal, crystal, oil, etc.).
 - No killing passive creatures that belong to other players.
 - Be mindful of community areas (such as teleporters, marketplaces, or public utilities).",
@@ -90,8 +93,11 @@ Happy taming, building and exploring!",
 - Use the WebUI ticket system or Discord for issues and bug reports. (Coming soon)
 - Cheating, exploiting, or abusing mechanics will result in immediate action.",
 	"Tab4Text1":"- No AFK farming, excessive auto-clicking, or macro abuse.
-- Automated farms (e.g. gachas, dinos on wander) must be supervised or soul-balled to avoid lag.",
-	"Tab4Text2":"",
+- Automated farms (e.g. gachas, dung beetles & seed farms) are allowed.
+- Dino Breeding farms must be supervised or Dinos soul-balled to avoid lag.",
+	"Tab4Text2":"- To find a lost dino, type in /finddino in the global chat.
+- This server utilizes a sophisticated transfer system. Use /upload or /download in the global chat.
+- This server has a play-to-win shop system. Use /shop in the global chat to get started.",
 	"Tab4Text3":"",
 	"Tab5Text1":"This cluster has auto-decay timers on all structures and tamed dinosaurs. This means that if nobody in your tribe logs into each map every few days, your structures and dinosaurs will decay, and then auto destroy (Ark Official Rules):
 - Thatch : 4 days
