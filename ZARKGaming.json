@@ -105,7 +105,7 @@ Happy taming, building and exploring!",
 - /buykit <KitName> <Amount> - Buys a kit.
 - /shop <Page> - Shows a list of available items in the shop.
 - /sell <ID> <Amount> - Sells an item.
-- /shopsell<Page> - Shows a list of available for selling items.",
+- /shopsell <Page> - Shows a list of available for selling items.",
 	"Tab5Text1":"This cluster has auto-decay timers on all structures and tamed dinosaurs. This means that if nobody in your tribe logs into each map every few days, your structures and dinosaurs will decay, and then auto destroy (Ark Official Rules):
 - Thatch : 4 days
 - Wood & Adobe : 8 days
