@@ -78,13 +78,13 @@ Welcome to a server so boosted, even your pickaxe's pickaxe is getting a raise! 
  		And more goodies we're too lazy to list but you'll definitely thank us for later.
 
 So get out there – tame it, build it, explore it... or get eaten trying.",
-	"Tab1Text2":"- Upcoming Events: Check our #Events channel on Discord for current events.
+	"Tab1Text2":"- Upcoming Events: Check our #Events channel on Discord for current events
 - Easter Event: 13 - 27 April 2025
 - Exclusive PvP Event Map: !ZARKGaming:12Map,x10 PvP Event
 - Community Centers: The Island (79:17 - Die Kantoor)
-- Scheduled daily restart at 05:00 - 05:30"
-- Common chat commands: /upload, /download, /finddino
-	"Tab1Text3":"- None",
+- Scheduled daily restart at 05:00 - 05:30
+- Common chat commands: /upload, /download, /finddino",
+	"Tab1Text3":"- ASA Extinction is offline",
 	"Tab2Text1":"- Be respectful: Any harassment, hate speech, toxic behavior or prejudiced comments of any kind, including sexism, racism, ageism, or homophobia / are not allowed.
 - No griefing: This includes, but not limited to foundation spamming, blocking resources, or trolling players.
 - No cheating: No exploiting glitches, bugs, or unintended mechanics.
@@ -119,13 +119,10 @@ So get out there – tame it, build it, explore it... or get eaten trying.",
 - This server utilizes a sophisticated transfer system. Use '/upload' or '/download' to safely upload or download all items on your character.",
 	"Tab4Text3":"- /points - Shows current amount of points.
 - /buy <ID> <Amount> - Buys the item from shop.
-- /trade 'CharacterName' <Amount> - Sends points to other player (' ' - are necessary).
 - /kit - Shows all kits.
 - /kit <KitName> - Redeems the kit.
 - /buykit <KitName> <Amount> - Buys a kit.
-- /shop <Page> - Shows a list of available items in the shop.
-- /sell <ID> <Amount> - Sells an item.
-- /shopsell <Page> - Shows a list of available for selling items.",
+- /shop <Page> - Shows a list of available items in the shop.",
 	"Tab5Text1":"This cluster has auto-decay timers on all structures and tamed dinosaurs. This means that if nobody in your tribe logs into each map every few days, your structures and dinosaurs will decay, and then auto destroy for the same period of time (Ark Official Rules):
 - Thatch : 4 days
 - Wood & Adobe : 8 days
