@@ -116,12 +116,10 @@ So get out there – tame it, build it, explore it... or get eaten trying.",
 - Dino Breeding farms must be supervised or Dinos soul-balled to avoid lag.",
         "Tab4Text2":"- To find a lost dino, type in '/finddino'.
 - This server utilizes a sophisticated transfer system. Use '/upload' or '/download' to safely upload or download all items on your character.",
-        "Tab4Text3":"- /points - Shows current amount of points.
-- /buy <ID> <Amount> - Buys the item from shop.
-- /kit - Shows all kits.
-- /kit <KitName> - Redeems the kit.
-- /buykit <KitName> <Amount> - Buys a kit.
-- /shop <Page> - Shows a list of available items in the shop.",
+        "Tab4Text3":"We have an Ark Shop!
+- ZARKShop is only available on the ZARK Event Map (at this time)
+- To access the ZARKShop, travel the ZARK Events Map, press F2
+- /shop - Shows a list of available items in the shop.",
         "Tab5Text1":"This cluster has auto-decay timers on all structures and tamed dinosaurs. This means that if nobody in your tribe logs into each map every few days, your structures and dinosaurs will decay, and then auto destroy for the same period of time (Ark Official Rules):
 - Thatch : 4 days
 - Wood & Adobe : 8 days
