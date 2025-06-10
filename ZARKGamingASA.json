@@ -12,13 +12,13 @@
             "icontextcolor": 0,
             "openonstart": true,
             "openonstartonlynewplayers": true,
-            "updateinterval": 24
+            "updateinterval": 1
         },
         "tabs": [
             {
                 "layout": 1,
                 "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
-                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "imageurl": "",
                 "content": [
                     {
                         "title": "Welcome to WBUI2!",
