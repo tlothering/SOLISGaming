@@ -54,7 +54,19 @@ So get out there – tame it, build it, explore it... or get eaten trying."
                 "content": [
                     {
                         "title": "Rules 1",
-                        "text": "This text goes into the left box"
+                        "text": "- Be respectful: Any harassment, hate speech, toxic behavior or prejudiced comments of any kind, including sexism, racism, ageism, or homophobia / are not allowed.
+- No griefing: This includes, but not limited to foundation spamming, blocking resources, or trolling players.
+- No cheating: No exploiting glitches, bugs, or unintended mechanics.
+- Keep it clean: Tribe, player, dino & Steam names must follow PEGI 12 / ESRB Teen standards. We recommend keeping your in-game and Discord name the same. No duplicate player names / first come, first served.
+- Keep it fair: Helping new players is welcome, but don’t spoil the game. No giving away high-level gear or dinos (e.g. Argy or higher). Giving OP dinos (250+ stats) may lead to a wipe or ban. Fair trades only.
+- Keep it consistent: Keep tribe names the same across the cluster, this is to help you in the event of a character corruption or any restore functions.
+- Build away from all key locations (e.g., obelisks, caves with artifacts, rare resource spawns and character spawns)
+- One main base per tribe, plus one outpost (e.g., farming or taming base).
+- No excessive land claiming, structures that go unused will be removed by Admins.
+- Keep bases optimized, limit unnecessary spam structures to reduce lag.
+- Do not build the SteamPunk AirShip or Vacuum Pods, they cause lag, map & character corruption (these will be removed by Admins without warning).
+    
+- These are only the highlights of our rules. See detailed rules at #Rules on our Discord channel below. By continuing, you acknowledge you have read and understand all rules."
                     }
                 ]
             },
@@ -95,16 +107,16 @@ So get out there – tame it, build it, explore it... or get eaten trying."
         ],
         "links": [
             {
-                "text": "Link to Wiki",
-                "url": "https://wiki.wbui2.de"
+                "text": "Join our Discord",
+                "url": "https://discord.com/invite/s5V4FBYK68"
             },
             {
-                "text": "Link to discord",
-                "url": "https://discord.com/invite/K7NyrTV"
+                "text": "Open a ticket",
+                "url": "https://discord.com/channels/707280164664639558/852267257908428820"
             },
             {
-                "text": "Link to google",
-                "url": "https://google.com"
+                "text": "Active Events",
+                "url": "https://discord.com/channels/707280164664639558/814603962946420746"
             }
         ],
         "version": 2
