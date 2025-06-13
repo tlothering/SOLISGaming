@@ -49,11 +49,11 @@ So get out there – tame it, build it, explore it... or get eaten trying."
             },
             {
                 "layout": 1,
-                "buttontext": "Rules 1 of 3",
+                "buttontext": "Rules 1 of 2",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
-                        "title": "Rules 1",
+                        "title": "Rules Page 1",
                         "text": "- Be respectful: Any harassment, hate speech, toxic behavior or prejudiced comments of any kind, including sexism, racism, ageism, or homophobia / are not allowed.
 - No griefing: This includes, but not limited to foundation spamming, blocking resources, or trolling players.
 - No cheating: No exploiting glitches, bugs, or unintended mechanics.
@@ -79,23 +79,41 @@ So get out there – tame it, build it, explore it... or get eaten trying."
             },
             {
                 "layout": 1,
-                "buttontext": "Rules 2 of 3",
+                "buttontext": "Rules 2 of 2",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
-                        "title": "Left title",
-                        "text": "This text goes into the left box"
+                        "title": "Rules Page 2",
+                        "text": "- Trade fairly, avoid sharing high-value items with new players.
+- Help new players by offering guidance, not just free items.
+- Report any exploits to Admins.
+- Respect Admin decisions, do not spam complaints or harass staff.
+- Support is offered on a best-effort-basis. Our Admins typically work during the day, but will be able to assist in the evenings or weekends.
+- Use the Discord ticket system (#tickets) for issues and bug reports.
+- Cheating, exploiting, or abusing mechanics will result in immediate action.
+- No AFK farming, excessive auto-clicking, or macro abuse.
+- Automated farms (e.g. gachas, dung beetles & seed farms) are allowed.
+- Dino Breeding farms must be supervised or Dinos soul-balled to avoid lag.
+- To find a lost dino, type in '/finddino'.
+- This server utilizes a sophisticated transfer system. Use '/upload' or '/download' to safely upload or download all items on your character.
+
+- These are only the highlights of our rules. See detailed rules at #Rules on our Discord channel below. By continuing, you acknowledge you have read and understand all rules."
                     }
                 ]
             },
             {
                 "layout": 4,
-                "buttontext": "4 Box layout",
+                "buttontext": "Cluster Configration",
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
-                        "title": "Top left title",
-                        "text": "<TextStyle.Orange>This text goes into the top left box</>"
+                        "title": "Maps",
+                        "text": "<TextStyle.Orange>- Aberration
+                        - Astraeos
+                        - Extinction
+                        - Scorched Earth
+                        - The Center
+                        - The Island </>
                     },
                     {
                         "title": "<TextStyle.Green>Top right title</>",
