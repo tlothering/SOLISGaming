@@ -132,8 +132,9 @@ So get out there – tame it, build it, explore it... or get eaten trying."
                         "text": "<TextStyle.Red>This text goes into the bottom left box</>"
                     },
                     {
-                        "title": "<TextStyle.Yellow>Bottom right title</>",
-                        "text": "<TextStyle.White>This text goes into the bottom right box</>"
+                        "title": "<TextStyle.Yellow>Server Rates</>",
+                        "text": "- 10x Harvesting
+                        - 2x Baby Maturation"
                     }
                 ]
             }
