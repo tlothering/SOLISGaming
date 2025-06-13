@@ -106,7 +106,7 @@ These are only the highlights of our rules. See detailed rules at #Rules on our 
                 "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
-                        "title": "Maps",
+                        "title": "<TextStyle.Magenta>Maps</>",
                         "text": "This Cluster is currently equipped with 6x Maps:
  
  - Aberration
@@ -128,13 +128,12 @@ These are only the highlights of our rules. See detailed rules at #Rules on our 
  - Tek : 20-80 days"
                     },
                     {
-                        "title": "<TextStyle.Blue>News</>",
+                        "title": "<TextStyle.Yellow>News</>",
                         "text": "- Scheduled daily restart at 04:00 - 05:00"
                     },
                     {
-                        "title": "<TextStyle.Yellow>Server Rates</>",
-                        "text": "- 10x Harvesting
-- 2x Baby Maturation"
+                        "title": "<TextStyle.Red>Emergency Notices</>",
+                        "text": "- None"
                     }
                 ]
             }
