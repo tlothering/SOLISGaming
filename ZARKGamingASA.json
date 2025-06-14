@@ -4,9 +4,9 @@
         "settings":
         {
             "openbutton": 0,
-            "hideicon": false,
-            "hideiconafter": 10,
-            "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+            "hideicon": true,
+            "hideiconafter": 60,
+            "iconurl": "",
             "disableicontext": false,
             "iconposition": 0,
             "icontextcolor": 0,
