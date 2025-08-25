@@ -6,8 +6,7 @@ Welcome to the SOLIS Gaming Cluster repository! This repository contains configu
 
 🚀 Current Hosted Games
 - ARK: Survival Evolved
-- 7 Days to Die
-- Minecraft Forge - Java Edition
+- ARK: Survival Ascended
 
 📜 License
 - This repository is maintained for internal use within the SOLIS Gaming Cluster.
